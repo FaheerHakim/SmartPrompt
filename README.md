@@ -1,1 +1,1 @@
-# AI-Prompt-Gallery
+# SmartPrompt
